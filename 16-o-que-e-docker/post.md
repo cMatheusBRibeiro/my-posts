@@ -1,0 +1,1 @@
+# SRP - Single Responsability Principle  (Princípio de Responsabilidade Única)
