@@ -1,15 +1,25 @@
-# O que é SOLID
+# O que é SOLID?
 
-## Uma breve história
+O SOLID é um conjunto de princípios da programação orientada a objetos criado para tornar sistemas mais testáveis, escaláveis e manuteníveis.
 
-## SRP - Single Responsability Principle (Princípio da Responsabilidade Única)
+Ele é um acrônimo:
 
-## OCP - Open/Closed Principle (Princípio Aberto/Fechado)
+S → Single Responsibility Principle (Princípio da Responsabilidade Única);
+O → Open/Closed Principle (Princípio Aberto/Fechado);
+L → Liskov Substitution Principle (Princípio da Substituição de Liskov);
+I → Interface Segregation Principle (Princípio da Segregação de Interface);
+D → Dependency Inversion Principle (Princípio da Inversão de Dependência).
 
-## LSP - Liskov Substitution Principle (Princípio de Substituição de Liskov)
+## Por que é importante?
 
-## ISP - Interface Segregation Principle (Princípio de Segregação de Interface)
+- Facilita a manutenção;
+- Reduz o acoplamento;
+- Torna o sistema mais flexível para mudanças;
+- Ajuda a escrever testes mais simples e objetivos.
 
-## DIP - Dependency Inversion Principle (Princípio de Inversão de Dependência)
+## Como estudar?
 
-## Benefícios de se utilizar SOLID nos projetos
+A melhor forma é entender cada princípio isoladamente e depois perceber como eles se conectam.
+Nos próximos posts vou trazer exemplos práticos de cada um deles: SRP, OCP, LSP, ISP e DIP.
+
+👉 Resumindo: pense no SOLID como um guia de boas práticas que ajuda a escrever código mais limpo, modular e preparado para crescer sem virar uma bola de neve.
